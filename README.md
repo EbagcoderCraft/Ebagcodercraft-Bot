@@ -1,2 +1,2 @@
 # Ebagcodercraft-Bot
-Source coder for my Discord bot!
+Source code for my Discord bot!
